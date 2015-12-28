@@ -1,0 +1,52 @@
+//
+//  PrefixHeader.pch
+//  WeiSchoolTeacher
+//
+//  Created by MacKun on 15/12/10.
+//  Copyright © 2015年 MacKun. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+//常用宏
+#import "MACMacro.h"
+
+//常用引用
+#import<UIKit/UIKit.h>
+#import "AFNetworking.h"
+#import "UserAuth.h"
+#import "Masonry.h"
+#import "BaseService.h"
+#import "HTTPClientHeader.h"
+#import <RongIMKit/RongIMKit.h>
+#import "RCDRCIMDataSource.h"//融云实现RCIM的数据源
+#import "RCStatusManager.h"//融云状态管理器
+
+//常用类、类别等
+#import "MJExtension.h"
+#import "NSString+MAC.h"
+#import "UIColor+WeSchool.h"
+#import "UIColor+Mac.h"
+#import "UIApplication+AppInfo.h"
+#import "UIView+HUD.h"
+#import "UIViewController+MAC.h"
+#import "UITableViewCell+MAC.h"
+
+//常用控件
+#import "IQKeyboardManager.h"
+#import "MMPopupItem.h"
+#import "MMAlertView.h"//AlertView
+#import "MMSheetView.h"//SheetView
+#import "MMPopupWindow.h"
+
+#endif
+#endif
+

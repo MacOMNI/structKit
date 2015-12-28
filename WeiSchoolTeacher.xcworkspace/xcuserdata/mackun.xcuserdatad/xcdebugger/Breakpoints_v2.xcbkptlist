@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Main/LeftViewController.m"
+            timestampString = "471768593.022625"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Main/LeftViewController.m"
+            timestampString = "471768941.487688"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Main/LeftViewController.m"
+            timestampString = "471768942.823791"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Main/LeftViewController.m"
+            timestampString = "471769024.066482"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-didReceiveMemoryWarning"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Main/LeftViewController.m"
+            timestampString = "471769025.4827"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-didReceiveMemoryWarning"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Main/BaseViewController.m"
+            timestampString = "472978449.893673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "-descriptionForEmptyDataSet:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/HTTPClient.m"
+            timestampString = "471860895.972174"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "@implementation HTTPClient"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "471862465.580806"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "@implementation BaseService"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Expand(&#x62d3;&#x5c55;)/Category(&#x7c7b;&#x522b;)/UIApplication/UIApplication+AppInfo.m"
+            timestampString = "472035595.452912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "-registerNotifications"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/Expand(&#x62d3;&#x5c55;)/Category(&#x7c7b;&#x522b;)/UIApplication/UIApplication+AppInfo.m"
+            timestampString = "472035595.452912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "@implementation UIApplication(AppInfo)"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/AppDelegate.m"
+            timestampString = "472982629.61794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "-installCrashHandler"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/AppDelegate.m"
+            timestampString = "472982629.61794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "-installCrashHandler"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/FGalleryPhoto/MACGalleryPhoto.h"
+            timestampString = "472544516.688645"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "delegate"
+            landmarkType = "19">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/ViewController(&#x63a7;&#x5236;&#x5668;)/SearchContactVC.m"
+            timestampString = "472612329.634848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "-choosePicAction:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[SearchContactVC choosePicAction:]_block_invoke"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/iOS/WeiSchoolTeacher/WeiSchoolTeacher/ViewController(%E6%8E%A7%E5%88%B6%E5%99%A8)/SearchContactVC.m"
+                  timestampString = "472546949.548926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/iOS/WeiSchoolTeacher/WeiSchoolTeacher/ViewController(%E6%8E%A7%E5%88%B6%E5%99%A8)/SearchContactVC.m"
+                  timestampString = "472546949.549383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/iOS/WeiSchoolTeacher/WeiSchoolTeacher/ViewController(%E6%8E%A7%E5%88%B6%E5%99%A8)/SearchContactVC.m"
+                  timestampString = "472546949.549656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/FGalleryPhoto/MACGalleryPhoto.m"
+            timestampString = "472547422.703082"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "-loadFullsizeInThread"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/FGalleryPhoto/MACGalleryPhoto.m"
+            timestampString = "472547522.985708"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "-loadFullsizeInThread"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACPhotosViewController.m"
+            timestampString = "472964042.773234"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "-imgViewTaped:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/FGalleryPhoto/MACGalleryViewController.m"
+            timestampString = "472554163.344091"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1107"
+            endingLineNumber = "1107"
+            landmarkName = "-unloadFullsizeImageWithIndex:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/FGalleryPhoto/MACGalleryViewController.m"
+            timestampString = "472554165.528037"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1102"
+            endingLineNumber = "1102"
+            landmarkName = "-unloadFullsizeImageWithIndex:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/FGalleryPhoto/MACGalleryPhoto.m"
+            timestampString = "472554481.945579"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "-loadFullsizeInThread"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MACGalleryPhoto loadFullsizeInThread]"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/iOS/WeiSchoolTeacher/ThirdParty(%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93)/Media(%E5%9B%BE%E5%83%8For%E8%A7%86%E9%A2%91)/MACPhotoImagePicker(%E4%BB%BF%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87%E9%80%89%E6%8B%A9)/FGalleryPhoto/MACGalleryPhoto.m"
+                  timestampString = "472554623.166631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MACGalleryPhoto loadFullsizeInThread]"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/iOS/WeiSchoolTeacher/ThirdParty(%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93)/Media(%E5%9B%BE%E5%83%8For%E8%A7%86%E9%A2%91)/MACPhotoImagePicker(%E4%BB%BF%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87%E9%80%89%E6%8B%A9)/FGalleryPhoto/MACGalleryPhoto.m"
+                  timestampString = "472554623.166849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACPhotosViewController.m"
+            timestampString = "472964042.773234"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/ViewController(&#x63a7;&#x5236;&#x5668;)/SearchContactVC.m"
+            timestampString = "472612569.221527"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "-choosePicAction:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeiSchoolTeacher/ViewController(&#x63a7;&#x5236;&#x5668;)/SearchContactVC.m"
+            timestampString = "472639409.965161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "-delPicAction:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryDelViewController.m"
+            timestampString = "472966739.585866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1076"
+            endingLineNumber = "1076"
+            landmarkName = "-unloadFullsizeImageWithIndex:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto.m"
+            timestampString = "472613944.63716"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "-initWithAssetDictionary:delegate:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryDelViewController.m"
+            timestampString = "472966739.585866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1075"
+            endingLineNumber = "1075"
+            landmarkName = "-unloadFullsizeImageWithIndex:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryDelViewController.m"
+            timestampString = "472966739.585866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "669"
+            endingLineNumber = "669"
+            landmarkName = "-enterFullscreen"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryDelViewController.m"
+            timestampString = "472966739.585866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "766"
+            endingLineNumber = "766"
+            landmarkName = "-updateCaption"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryDelViewController.m"
+            timestampString = "472966739.585866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "828"
+            endingLineNumber = "828"
+            landmarkName = "-moveScrollerToCurrentIndexWithAnimation:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhotoView.m"
+            timestampString = "472965186.403053"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "-initWithFrame:target:action:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryDelViewController.m"
+            timestampString = "472966175.577632"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "-initWithPhotoSource:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThirdParty(&#x7b2c;&#x4e09;&#x65b9;&#x5e93;)/Media(&#x56fe;&#x50cf;or&#x89c6;&#x9891;)/MACPhotoImagePicker(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryPhoto(&#x4eff;&#x5fae;&#x4fe1;&#x56fe;&#x7247;&#x9009;&#x62e9;)/MACGalleryViewController.m"
+            timestampString = "472966393.624358"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "942"
+            endingLineNumber = "942"
+            landmarkName = "-showThumbnailViewWithAnimation:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "472976733.165861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "+POST:parameters:result:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "472976733.165861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "+POST:parameters:result:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BaseService POST:parameters:result:]"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976609.694974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38+[BaseService POST:parameters:result:]_block_invoke"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976609.695229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976609.695432"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976609.695635"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38+[BaseService POST:parameters:result:]_block_invoke13"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976609.696075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "472976523.593691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "+POST:parameters:result:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BaseService POST:parameters:result:]"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976523.62021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38+[BaseService POST:parameters:result:]_block_invoke"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976523.620658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976523.620998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976523.621663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38+[BaseService POST:parameters:result:]_block_invoke13"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976523.621995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "472976733.165861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "+POSTWithCache:parameters:completionBlock:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[BaseService POSTWithCache:parameters:completionBlock:]"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976578.389336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__56+[BaseService POSTWithCache:parameters:completionBlock:]_block_invoke"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976578.38961"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_33"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976578.389809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_34"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976578.390003"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__56+[BaseService POSTWithCache:parameters:completionBlock:]_block_invoke36"
+                  moduleName = "&#x5fae;&#x6821;&#x6559;&#x5e08;&#x7aef;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mackun/Desktop/WeiSchoolTeacher/ServiceKit(%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%EF%BC%89/BaseService(%E9%80%9A%E4%BF%A1%E6%9C%8D%E5%8A%A1)/BaseService.m"
+                  timestampString = "472976578.390196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "472976733.165861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "+POSTWithCache:parameters:completionBlock:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ServiceKit(&#x6570;&#x636e;&#x901a;&#x4fe1;&#xff09;/BaseService(&#x901a;&#x4fe1;&#x670d;&#x52a1;)/BaseService.m"
+            timestampString = "472976725.398816"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "+POST:parameters:result:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
