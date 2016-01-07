@@ -26,3 +26,5 @@ Crash Report;
 社会化分享;
 
 autoLayout等。
+
+如果对你有帮助，欢迎 star and fork。
